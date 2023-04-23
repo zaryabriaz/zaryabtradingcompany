@@ -1583,3 +1583,12 @@ section {
 .logo-text{
   color: #FFFFFF; 
 }
+hr.new1 {
+  border-top: 1px solid white;
+}
+.carousel-container-item {
+  background-image: url("https://www.cocotraders.com/wp-content/uploads/2016/04/1-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px; /* Add a 5px round border *
+}
